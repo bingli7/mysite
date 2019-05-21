@@ -79,8 +79,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'djangointro',
-        'USER': 'intro',
-        'PASSWORD': 'intro',
+        'USER': 'root',
+        'PASSWORD': 'deepblue',
         'HOST': '127.0.0.1',
         'PORT': '3306',
     }
